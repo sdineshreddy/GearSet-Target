@@ -1,5 +1,5 @@
 public class sampleApexForDeployment {
     public static void sampleDeployMethod(){
-        system.debug('Sample 5');
+        system.debug('Sample 7');
     }
 }
